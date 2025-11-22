@@ -1,11 +1,11 @@
-# Simplotel Frontend Assignment
+# Assignment
 
-This project is a **responsive webpage** built with **HTML & CSS only**, as part of the Frontend Web Developer assignment for **Simplotel Technologies**.
+This project is a **responsive webpage** built with **HTML & CSS only**, as part of the Frontend Web Developer assignment for **Technologies**.
 
 ---
 
 ## 📌 Project Overview
-The goal was to replicate the design shared by Simplotel with:
+The goal was to replicate the design shared by me with:
 - Pixel-perfect layout
 - Clean, semantic HTML and organized CSS
 - Full responsiveness for desktop, tablet, and mobile
@@ -18,12 +18,12 @@ The goal was to replicate the design shared by Simplotel with:
 ## 🛠 Tech Stack
 - **HTML5** – Semantic markup
 - **CSS3** – Flexbox & Grid for layout, media queries for responsiveness
-- **No frameworks/libraries** (as per Simplotel requirement)
+- **No frameworks/libraries** (as per requirement)
 
 ---
 
 ## 📂 Folder Structure
-simplotel-assignment/
+assignment/
 │
 ├── index.html # Main file
 ├── style.css # Stylesheet
@@ -60,7 +60,7 @@ simplotel-assignment/
 
 ## 👨‍💻 Author
 Pilli Venkata Sai Kishor 
-Frontend Developer Candidate – Simplotel Technologies  
+Frontend Developer Candidate – Technologies  
 📧 pillikishor867@gmail.com
 
 ---
