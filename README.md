@@ -68,7 +68,7 @@ Frontend Developer Candidate – Technologies
 > 💡 **Tip:** If submitting via GitHub, enable **GitHub Pages** for a live demo:  
 > Go to **Settings → Pages → Deploy from branch → Select `main` branch → Save.**  
 > You’ll get a link like:  
-> `https://Venkatasaikishor/simplotel-assignment/`
+> `https://Venkatasaikishor/assignment/`
 
 
 
